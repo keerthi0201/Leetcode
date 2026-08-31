@@ -53,8 +53,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/keerthi0201/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/keerthi0201/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/keerthi0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/keerthi0201/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/keerthi0201/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
