@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/keerthi0201/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0258-add-digits](https://github.com/keerthi0201/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/keerthi0201/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/keerthi0201/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keerthi0201/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -65,5 +66,10 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/keerthi0201/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/keerthi0201/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/keerthi0201/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
