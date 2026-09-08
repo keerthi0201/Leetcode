@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/keerthi0201/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/keerthi0201/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthi0201/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | [0268-missing-number](https://github.com/keerthi0201/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/keerthi0201/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keerthi0201/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthi0201/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/keerthi0201/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## String
 | Problem Name | Difficulty |
