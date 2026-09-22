@@ -70,8 +70,17 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/keerthi0201/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/keerthi0201/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1603-design-parking-system](https://github.com/keerthi0201/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/keerthi0201/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/keerthi0201/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/keerthi0201/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
