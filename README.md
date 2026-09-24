@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/keerthi0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/keerthi0201/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/keerthi0201/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/keerthi0201/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/keerthi0201/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/keerthi0201/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/keerthi0201/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/keerthi0201/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/keerthi0201/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/keerthi0201/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/keerthi0201/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/keerthi0201/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/keerthi0201/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/keerthi0201/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +87,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/keerthi0201/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/keerthi0201/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/keerthi0201/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/keerthi0201/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
